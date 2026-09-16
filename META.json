@@ -1,0 +1,22 @@
+{
+  "repo_name": "ai-apis-you-can-ship-today",
+  "description": "This GitHub repo is a powerhouse collection of AI APIs you can start using immediately to ship real products — from LLM tools to computer vision and agents. One of the most valuable AI API lists on GitHub.",
+  "topics": [
+    "ai",
+    "apis",
+    "llm",
+    "agents",
+    "machine-learning",
+    "computer-vision",
+    "nlp",
+    "openai",
+    "rag",
+    "mcp",
+    "apify",
+    "awesome-list",
+    "developers",
+    "shipping"
+  ],
+  "api_count": 1555,
+  "source_path": "ai-apis-1555"
+}
