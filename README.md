@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="AI APIs You Can Ship Today hero banner" width="100%" />
+<img src="./assets/hero.png" alt="AI APIs You Can Ship Today hero banner" width="100%" />
 
 <br />
 <br />
